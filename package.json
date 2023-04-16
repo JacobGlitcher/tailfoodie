@@ -1,0 +1,15 @@
+{
+  "name": "tailfoodie",
+  "version": "1.0.0",
+  "description": "30 minute food recipes",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwindcss build src/styles.css -o public/styles.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^1.4.6"
+  }
+}
